@@ -30,7 +30,7 @@ A modern web application designed to manage badminton sessions for groups of 5+ 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/badminton-session-manager.git
+   git clone https://github.com/shankakoththagoda95/Badminton-Session-Manager.git
    ```
 
 2. Navigate to the project directory:

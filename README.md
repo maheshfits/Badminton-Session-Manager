@@ -2,8 +2,6 @@
 
 A modern web application designed to manage badminton sessions for groups of 5+ players. It ensures fair play time through an intelligent rotation algorithm and tracks match results and player statistics.
 
-![Badminton Session Manager](public/banner.svg)
-
 ## Features
 
 - **Fair Rotation System**: Automatically generates matches ensuring equal play time and balanced rest periods for all players.

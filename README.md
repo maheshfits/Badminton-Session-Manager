@@ -2,7 +2,7 @@
 
 A modern web application designed to manage badminton sessions for groups of 5+ players. It ensures fair play time through an intelligent rotation algorithm and tracks match results and player statistics.
 
-![Badminton Session Manager](https://images.unsplash.com/photo-1626224583764-847890e05851?q=80&w=2070&auto=format&fit=crop)
+![Badminton Session Manager]([https://images.unsplash.com/photo-1626224583764-847890e05851?q](https://unsplash.com/photos/a-yellow-badminton-racquet-flying-through-the-air-9-2h-tto1EA)=80&w=2070&auto=format&fit=crop)
 
 ## Features
 

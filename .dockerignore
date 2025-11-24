@@ -1,0 +1,6 @@
+# Ignore build artifacts and application-specific
+node_modules
+npm-debug.log
+.git
+.gitignore
+.DS_Store
